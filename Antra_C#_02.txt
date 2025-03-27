@@ -1,0 +1,21 @@
+Arrays and Strings
+
+1. 
+String is immutable, meaning every time you modify a string, a new string object is created. 
+StringBuilder is mutable, meaning it allows you to modify the content of a string without creating new objects each time. 
+
+2.
+  System.Array.
+
+3. 
+  Array.Sort() method
+
+4. 
+  Array.Length() method
+ 
+5.
+  No, System.Array can only store elements of a single data type. 
+
+6.
+  Array.CopyTo(): Copies all elements of an array to another array. 
+  Array.Clone(): Creates a shallow copy of the entire array and returns it as an object 
