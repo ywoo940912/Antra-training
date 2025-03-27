@@ -1,0 +1,67 @@
+Understanding Data Types
+1. 
+  A person’s telephone number: string 
+  A person’s height: float or double 
+  A person’s age: int
+  A person’s gender (Male, Female, Prefer Not To Answer): enum or string 
+  A person’s salary: decimal 
+  A book’s ISBN: string 
+  A book’s price: decimal 
+  A book’s shipping weight: float or double
+  A country’s population: long 
+  The number of stars in the universe: BigInteger 
+  The number of employees in each of the small or medium businesses in the UK (up to about 50,000 employees per business): int 
+
+2. 
+  Value Types: holds the actual data (e.g., int, float, char, struct). 
+  Reference Types: holds a reference to the data (e.g., class, interface, object). 
+  
+  Boxing: Converting a value type to a reference type 
+  Unboxing: Extracting a value type from an object 
+
+3. 
+  Managed Resources: Memory allocated and managed by the .NET runtime 
+  Unmanaged Resources: Resources that are not automatically managed by .NET
+
+4. 
+  The Garbage Collector (GC) automatically reclaims memory occupied by objects that are no longer in use, preventing memory leaks and optimizing performance. 
+
+
+Controlling Flow and Converting Types 
+
+1. 
+  DivideByZeroException at runtime. 
+
+2. 
+  Infinity in result. 
+
+3.
+  If unchecked, it wraps around to a negative value. 
+  If checked using checked keyword, an OverflowException is thrown. 
+
+4.
+  x = y++; assigns y to x, then increments y. 
+  x = ++y; increments y first, then assigns it to x. 
+
+5.
+  break: Exits the loop. 
+  continue: Skips the rest of the current iteration to the next one. 
+  return: Exits the method. 
+
+6.
+  Initialization 
+  Condition (required) 
+  Iteration 
+
+7.
+  = is the assignment operator. 
+  == is the equality comparison operator. 
+
+8. 
+  Yes. And It creates an infinite loop. 
+
+9.
+  It acts as a default case in a switch expression. 
+
+10. 
+  IEnumerable or IEnumerable<T>. 
