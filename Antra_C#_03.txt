@@ -1,0 +1,82 @@
+Object-Oriented Programming
+
+1.
+   Public: Accessible from anywhere.
+   Private: Accessible only within the same class.
+   Protected: Accessible within the same class and derived classes.
+   Internal: Accessible within the same assembly.
+   Protected Internal: Accessible within the same assembly or by derived classes.
+   Private Protected: Accessible within the same class and derived classes within the same assembly.
+
+2. 
+   static: Belongs to the type (class) rather than instances. Shared across all instances.
+   const: Compile-time constant, must be assigned at declaration and cannot change.
+   readonly: Can be assigned only at declaration or in the constructor, but not modified afterward.
+
+3. 
+   A constructor initializes an object when a class is instantiated. It sets default values and ensures proper initialization.
+
+4. 
+   The`partial keyword allows splitting a class, struct, or interface into multiple files. This is useful in large projects and for auto-generated code.
+
+5. 
+   A tuple is a lightweight data structure that can store multiple values of different types.
+
+6. 
+   A record is an immutable reference type used primarily for data storage. It provides built-in value equality.
+
+7. 
+   Overloading: Defining multiple methods with the same name but different parameters.
+   Overriding: Providing a new implementation of a method in a derived class using `override`.
+
+8. 
+   Field: A variable declared inside a class.
+   Property: A member that provides controlled access to a field.
+
+9. 
+   Use default values or the `params` keyword.
+
+10. 
+   Interfaces can be implemented by multiple classes.
+   Interfaces do not have fields, while abstract classes can.
+   Abstract classes can have implemented and abstract methods.
+   
+11. 
+   All members in an interface are public by default.
+
+12.
+   True
+
+13.
+   True
+
+14.
+   True
+
+15.
+   False
+
+16. 
+   True
+
+17.  
+   True
+
+18. 
+   True
+
+19. 
+   False
+
+20. 
+   False
+
+21. 
+   True
+
+22. 
+   False 
+
+23. 
+   True
+
