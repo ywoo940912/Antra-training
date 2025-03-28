@@ -1,0 +1,15 @@
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.AssemblyInfoInputs.cache
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.AssemblyInfo.cs
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.csproj.CoreCompileInputs.cache
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.sourcelink.json
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/bin/Debug/net8.0/Antra_Csharp_03_02
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/bin/Debug/net8.0/Antra_Csharp_03_02.deps.json
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/bin/Debug/net8.0/Antra_Csharp_03_02.runtimeconfig.json
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/bin/Debug/net8.0/Antra_Csharp_03_02.dll
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/bin/Debug/net8.0/Antra_Csharp_03_02.pdb
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.dll
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/refint/Antra_Csharp_03_02.dll
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.pdb
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/Antra_Csharp_03_02.genruntimeconfig.cache
+/Users/yeon/RiderProjects/Antra-training/Antra_Csharp_03_02/obj/Debug/net8.0/ref/Antra_Csharp_03_02.dll
